@@ -1,0 +1,9 @@
+D:\Projects\Poop\ConsoleApp2\Case_1_Solutions\obj\Debug\netstandard2.0\Case_1_Solutions.csprojAssemblyReference.cache
+D:\Projects\Poop\ConsoleApp2\Case_1_Solutions\obj\Debug\netstandard2.0\Case_1_Solutions.AssemblyInfoInputs.cache
+D:\Projects\Poop\ConsoleApp2\Case_1_Solutions\obj\Debug\netstandard2.0\Case_1_Solutions.AssemblyInfo.cs
+D:\Projects\Poop\ConsoleApp2\Case_1_Solutions\obj\Debug\netstandard2.0\Case_1_Solutions.csproj.CoreCompileInputs.cache
+D:\Projects\Poop\ConsoleApp2\Case_1_Solutions\bin\Debug\netstandard2.0\Case_1_Solutions.deps.json
+D:\Projects\Poop\ConsoleApp2\Case_1_Solutions\bin\Debug\netstandard2.0\Case_1_Solutions.dll
+D:\Projects\Poop\ConsoleApp2\Case_1_Solutions\bin\Debug\netstandard2.0\Case_1_Solutions.pdb
+D:\Projects\Poop\ConsoleApp2\Case_1_Solutions\obj\Debug\netstandard2.0\Case_1_Solutions.dll
+D:\Projects\Poop\ConsoleApp2\Case_1_Solutions\obj\Debug\netstandard2.0\Case_1_Solutions.pdb
